@@ -2,25 +2,26 @@
 # It allows users to browse products, add items to cart, and manage orders with a clean and responsive UI.
 
 # Tech Stack
-  •Frontend
-  •React.js
-  •Tailwind CSS
-  •Axios
-  •React Router DOM
+  Frontend
+  
+  React.js
+  Tailwind CSS
+  Axios
+  React Router DOM
 
 # Backend
-  •Node.js
-  •Express.js
-  •MongoDB (Mongoose)
-  •bcrypt.js
+  Node.js
+  Express.js
+  MongoDB (Mongoose)
+  bcrypt.js
 
 ## Features
  # User Features
-    •User Registration & Login (JWT Authentication)
-    •Browse Products
-    •Add to Cart
-    •Remove from Cart
-    •Place Orders
+    User Registration & Login (JWT Authentication)
+    Browse Products
+    Add to Cart
+    Remove from Cart
+    Place Orders
     •Responsive Design
 
 # Admin Features (Optional if implemented)
